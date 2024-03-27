@@ -11,3 +11,6 @@ vector to up = [0, dist ance_to_next difference to up*100000]
 Pomnożenie różnicy wysokości przez większą liczbę pozwala uzyskać efekt głębszych cieni. 
 
 Iloczyn skalarny wektora padania światła oraz wektora normalnego po ich wcześniejszym znormalizowaniu jest cosinusem kąta pomiędzy wektorami, który przekazuję jako parametr value do funkcji wyznaczającej gradient HSV.
+
+![image](https://github.com/anroszkiewicz/map-coloring/assets/111358119/9729e405-1a46-4a12-ae9d-65405caf9a05)
+
